@@ -1,6 +1,9 @@
 ## Evaluation
 
-
+RS CMS package for Laravel.
+It must be installed in Laravel as a dependency.
+4 example: 
+/app/Cms/Controllers/LanguageController.php - here we can easily extend language support
 
 Questions: p.pauler@reverse.systems<br/>
 Thanks!
